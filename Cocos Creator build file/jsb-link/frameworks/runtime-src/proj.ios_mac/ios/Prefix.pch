@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'EC327Project' target in the 'EC327Project' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
